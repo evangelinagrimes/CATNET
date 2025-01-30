@@ -3,12 +3,3 @@ CNU's research team, led by Dr. Roy, is dedicated to advancing the fields of dat
 
 ## Security Risk LLM - Eva Grimes
 > A program designed to take a user-submitted paragraph outlining startup ideas or website proposals and, based on that input, generate a list of potential security risks associated with the idea. 
-
-## Research Project no. 2 - Riley McDonough
-@TODO Fill
-
-## Research Project no. 3 - Lior Belay & Kaitlyn McFadden
-@TODO Fill
-
-<hr>
-For fellow research apprentices: hold on making any changes for now. I'm figuring out how branching works and how that might impact workflow-- I think I've found a pretty good solution, but I need to double-check a few things ad then I'll make a little TODO
